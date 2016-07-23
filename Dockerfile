@@ -1,6 +1,6 @@
 FROM java:8u92-jre-alpine
 
-MAINTAINER lucifer
+MAINTAINER itzg
 
 ENV ES_VERSION=2.3.4
 
